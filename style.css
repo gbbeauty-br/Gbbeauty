@@ -213,3 +213,29 @@ footer a{
     color:#555;
     margin-bottom:30px;
 }
+
+.contato{
+
+padding:80px 20px;
+
+text-align:center;
+
+background:#fff;
+
+}
+
+.contato h2{
+
+color:#c85a8d;
+
+margin-bottom:20px;
+
+}
+
+.contato p{
+
+margin:10px;
+
+font-size:18px;
+
+}
