@@ -123,3 +123,35 @@ footer a{
     border-radius:30px;
     text-decoration:none;
 }
+
+.card img{
+    width:100%;
+    height:220px;
+    object-fit:cover;
+    border-radius:15px;
+    margin-bottom:15px;
+}
+
+.card p{
+    margin:10px 0;
+    color:#666;
+}
+
+.card h4{
+    color:#d97aa6;
+    margin:15px 0;
+}
+
+.card button{
+    background:#d97aa6;
+    color:white;
+    border:none;
+    padding:12px 25px;
+    border-radius:30px;
+    cursor:pointer;
+    transition:.3s;
+}
+
+.card button:hover{
+    background:#b85d88;
+}
