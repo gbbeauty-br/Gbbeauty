@@ -189,3 +189,27 @@ footer a{
 .whatsapp:hover{
     transform:scale(1.1);
 }
+
+.hero{
+    min-height:80vh;
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    align-items:center;
+    text-align:center;
+    padding:40px;
+    background:linear-gradient(135deg,#fff7fa,#ffe4ef);
+}
+
+.hero h1{
+    font-size:3rem;
+    color:#c85a8d;
+    margin-bottom:20px;
+}
+
+.hero p{
+    max-width:600px;
+    font-size:1.2rem;
+    color:#555;
+    margin-bottom:30px;
+}
